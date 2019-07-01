@@ -21,11 +21,11 @@ sass:
 title: end2end
 description: "A free Jekyll theme for download"
 keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://adzguy.github.io
+url: https://adzguy.github.io
 baseurl: ""
 
 google_analytics: UA-52446115-1
-repo: http://github.com/adzguy/adzguyblog
+repo: https://github.com/adzguy/adzguyblog
 disqus_shortname: "nandothemes"
 disqus_site_shortname: "nandothemes"
 
